@@ -6,4 +6,3 @@ class startup {
     cwd => '/vagrant',
   }
 }
-
